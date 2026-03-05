@@ -1,0 +1,4 @@
+project_id = "tafrmqizjjuvxnipishf"
+
+[functions.classify-plastic]
+verify_jwt = false
